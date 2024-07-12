@@ -18,9 +18,9 @@ def solve_quadratic(a, b, c):
 # Ví dụ
 a = 1
 b = -3
-c = 1 + 1 + 1
+c = 1 + 1
 
-print("Nghiệm của phương trình là:")
+print("Nghiệm của phương trình là hfvifkjhfjhlfjkfkhjfkjfhjf:")
 
 
 kết_quả = solve_quadratic(a, b, c)
