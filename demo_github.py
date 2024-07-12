@@ -18,7 +18,6 @@ def solve_quadratic(a, b, c):
 # Ví dụ
 a = 1
 b = -3
-c = 200
 
 kết_quả = solve_quadratic(a, b, c)
 print("Nghiệm của phương trình là:", kết_quả)
