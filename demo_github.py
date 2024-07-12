@@ -18,9 +18,13 @@ def solve_quadratic(a, b, c):
 # Ví dụ
 a = 10
 b = -3
+
 c = 2
 d = 1500
 e = 5
+
+
+
 
 kết_quả = solve_quadratic(a, b, c)
 print("Nghiệm của phương trình là:", kết_quả)
