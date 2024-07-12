@@ -16,11 +16,14 @@ def solve_quadratic(a, b, c):
         return "Phương trình vô nghiệm"
 
 # Ví dụ
-a = 1
+a = 10
 b = -3
-c = 2 + 2
-c = 2 + 3
-c = 2 + 1
+
+c = 2
+d = 1500
+e = 5
+
+
 
 
 kết_quả = solve_quadratic(a, b, c)
